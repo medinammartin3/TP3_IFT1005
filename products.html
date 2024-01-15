@@ -1,0 +1,72 @@
+<!--Martin Medina (nº de matricule : 20235219)-->
+
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>OnlineShop - Produits</title>
+  <link rel="stylesheet" type="text/css" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css">
+  <link rel="stylesheet" type="text/css" href="./assets/css/style.css">
+  <script type="text/javascript" src="https://code.jquery.com/jquery-3.6.1.js"></script>
+</head>
+<body>
+  <header>
+    <div class="header-container">
+      <div class="logo">
+        <a href="./index.html">
+          <img alt="logo" src="./assets/img/logo.svg" title="Accueil">
+        </a>
+      </div>
+      <nav>
+        <ul>
+          <li><a href="./index.html">Accueil</a></li>
+          <li class="active"><a href="./products.html">Produits</a></li>
+          <li><a href="./contact.html">Contact</a></li>
+          <li>
+            <a class="shopping-cart" href="./shopping-cart.html" title="Panier">
+              <span class="fa-stack fa-lg">
+                <i class="fa fa-circle fa-stack-2x fa-inverse"></i>
+                <i class="fa fa-shopping-cart fa-stack-1x"></i>
+              </span>
+              <span class="count"></span>
+            </a>
+          </li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+  <main>
+    <section class="sidebar" aria-label="Filtres">
+      <section>
+        <h2>Catégories</h2>
+        <div class="btn-group vertical" id="product-categories">
+          <button class="" onclick="selectCategory('cameras')" id="cameras">Appareils photo</button>
+          <button class="" onclick="selectCategory('consoles')" id="consoles">Consoles</button>
+          <button class="" onclick="selectCategory('screens')" id="screens">Écrans</button>
+          <button class="" onclick="selectCategory('computers')" id="computers">Ordinateurs</button>
+          <button class="selected" onclick="selectCategory('tous-les-produits')" id="tous-les-produits">Tous les produits</button>
+        </div>
+      </section>
+      <section>
+        <h2>Classement</h2>
+        <div class="btn-group vertical" id="product-criteria">
+          <button class="selected" onclick="selectCriteria('bas-haut')" id="bas-haut">Prix (bas-haut)</button>
+          <button class="" onclick="selectCriteria('haut-bas')" id="haut-bas">Prix (haut-bas)</button>
+          <button class="" onclick="selectCriteria('a-z')" id="a-z">Nom (A-Z)</button>
+          <button class="" onclick="selectCriteria('z-a')" id="z-a">Nom (Z-A)</button>
+        </div>
+      </section>
+    </section>
+    <article>
+      <span class="right-header" id="products-count"></span>
+      <h1>Produits</h1>
+      <div class="products" id="products-list">
+      </div>
+    </article>
+  </main>
+  <footer>
+    <p>Ce site web a été développé par Martin Medina (20235219) et Étienne Mitchell-Bouchard (20243430)</p>
+  </footer>
+  <script type="text/javascript" src="./assets/scripts/products.js"></script>
+</body>
+</html>

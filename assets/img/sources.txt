@@ -1,0 +1,14 @@
+apple-tv.png ==> https://upload.wikimedia.org/wikipedia/commons/2/22/AppleTV-4th-gen.jpg
+camera-1.png ==> https://upload.wikimedia.org/wikipedia/commons/2/28/Canon_EOS_5D_Mark_II_with_50mm_1.4_edit1.jpg
+camera-2.png ==> https://upload.wikimedia.org/wikipedia/commons/b/b1/Nikon_D7000_Digital_SLR_Camera_05.jpg
+camera-3.png ==> https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Canon_PowerShot_SD1300_IS.jpg/1024px-Canon_PowerShot_SD1300_IS.jpg
+home.png ==> https://pixabay.com/p-1929002
+laptop-1.png ==> https://commons.wikimedia.org/wiki/File:High-Performance-Desktop-Replacement-Slim-Laptop.png
+laptop-2.png ==> https://pixabay.com/fr/pc-ordinateur-ordinateur-portable-1209746/
+mac.png ==> https://upload.wikimedia.org/wikipedia/commons/e/e8/Imac_16-9.png
+monitor.png ==> https://pixabay.com/p-32743/
+ps3.png ==> https://upload.wikimedia.org/wikipedia/commons/0/07/Sony-PlayStation-PS3-SuperSlim-Console-BL.jpg
+tv.png ==> https://pixabay.com/p-1271650/
+wii.png ==> https://upload.wikimedia.org/wikipedia/commons/4/44/Wii_Wiimotet.png
+xbox.png ==> https://upload.wikimedia.org/wikipedia/commons/f/fe/Xbox-One-Console-FR.jpg
+xbox-controller.png ==> https://upload.wikimedia.org/wikipedia/commons/c/c4/Xbox-360-Controller-Black.jpg
