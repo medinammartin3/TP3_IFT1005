@@ -4,7 +4,7 @@
 
 # E-commerce Website
 
-***Date :** Fall 2023*
+***Date :** Fall 2022*
 
 ## Description
 
@@ -35,7 +35,7 @@ ___
 
 # Page web de commerce en ligne
 
-***Date :** Hiver 2023*
+***Date :** Automne 2022*
 
 ## Description
 
