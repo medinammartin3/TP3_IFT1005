@@ -12,7 +12,7 @@ Front-end implementation of an interactive e-commerce website using HTML, CSS, J
 
 ## Project link
 
-Go directly to the website without installing/running anything : 🔗 **[https://medinammartin3.github.io/OnlineShop/index.html](https://medinammartin3.github.io/OnlineShop/index.html)**
+🔗 Go directly to the website without installing/running anything : **[https://medinammartin3.github.io/OnlineShop/index.html](https://medinammartin3.github.io/OnlineShop/index.html)**
 
 ## How to Install
 
@@ -47,7 +47,7 @@ Implémentation de la partie front-end d‘un site web intéractif de commerce e
 
 ## Lien du projet
 
-Allez directement sur le site web sans rien installer/exécuter : 🔗 **[https://medinammartin3.github.io/OnlineShop/index.html](https://medinammartin3.github.io/OnlineShop/index.html)**
+🔗 Allez directement sur le site web sans rien installer/exécuter : **[https://medinammartin3.github.io/OnlineShop/index.html](https://medinammartin3.github.io/OnlineShop/index.html)**
 
 ## Comment installer
 
