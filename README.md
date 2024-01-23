@@ -10,6 +10,10 @@
 
 Front-end implementation of an interactive e-commerce website using HTML, CSS, JavaScript, JQuery and AJAX.
 
+## Project link
+
+Go directly to the website without installing/running anything : 🔗 **[https://medinammartin3.github.io/OnlineShop/index.html](https://medinammartin3.github.io/OnlineShop/index.html)**
+
 ## How to Install
 
 * Clone or download the project from this GitHub repository.
@@ -40,6 +44,10 @@ ___
 ## Description
 
 Implémentation de la partie front-end d‘un site web intéractif de commerce en ligne (de type Amazon). Implémentée avec : HTML, CSS, JavaScript, JQuery et AJAX.
+
+## Lien du projet
+
+Allez directement sur le site web sans rien installer/exécuter : 🔗 **[https://medinammartin3.github.io/OnlineShop/index.html](https://medinammartin3.github.io/OnlineShop/index.html)**
 
 ## Comment installer
 
